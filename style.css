@@ -1,0 +1,25 @@
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Libre Franklin', sans-serif;
+}
+.gradient{
+    background: rgb(224,109,76);
+    background: linear-gradient(
+        90deg, 
+        rgba(224,109,76,1) 0%, 
+        rgba(27,135,173,1) 100%, 
+        rgba(255,0,195,1) 100%
+    );
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: rgb(255, 255, 255);
+}
+
+.feature{
+    color:rgb(255, 255, 255);
+}

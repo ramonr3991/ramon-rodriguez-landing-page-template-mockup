@@ -1,0 +1,218 @@
+html,
+body{
+    height: 100%;
+    font-size: 24px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    background-color: #023951;
+    font-weight: 200;
+}
+
+.artworks{
+  background-color: #023951;
+}
+.gradient{
+    background: rgb(224,109,76);
+    background: linear-gradient(
+        90deg, 
+        rgba(224,109,76,1) 0%, 
+        rgba(27,135,173,1) 100%, 
+        rgba(255,0,195,1) 100%
+    );
+}
+.artist{
+  font-family: 'Reenie Beanie', cursive;
+}
+.navbar-light {
+  background-color:#0b9df1!IMPORTANT; 
+  font-family: 'Reenie Beanie', cursive;
+  font-size: xx-large;
+}
+
+.bg-light {
+  background-color:rgba(27,135,173,1)!; 
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+  color: #fff;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link.active:hover, .navbar-light:hover .navbar-nav:hover .show:hover>.nav-link:hover {
+  color: rgb(238, 154, 27);
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(238, 154, 27);
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+  color: #fff; 
+}
+a.nav-link{
+  color: #fff;
+}
+
+li.nav-item{
+  color: #fff;
+}
+
+ul.navbar-nav{
+  color: #fff;
+}
+
+a.nav-link.active{
+  color: #fff;
+}
+
+h1{
+  color:#fff;
+}
+
+.mb-3{
+  color: #fff;
+}
+.container img{
+  width: 25%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 15px;
+  border-color: aqua;
+}
+
+.col-md-5{
+  width: 100%;
+}
+
+.col-md-6{
+  width: 100%;
+}
+
+.page-header {
+    margin-top: 8rem;
+    font-size: 1.25rem;
+    color: #fff;
+    background: linear-gradient(
+        90deg, 
+        rgba(224,109,76,1) 0%, 
+        rgba(27,135,173,1) 100%, 
+        rgba(255,0,195,1) 100%
+    );
+}
+
+.btn, .btn-outline-success, .btn-lg{
+  color:crimson
+
+}
+.feature{
+    color:#023951;
+}
+
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: none;
+    
+}
+
+.feature ul li {
+    padding-left: 2rem;
+    background-image: url();
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.icon{
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-control-message{
+  width: 50%;
+  border-radius: 10px;
+}
+
+
+.photography, .nft, .learn{
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.row{
+  background: transparent; 
+  border-radius: 1%;
+}
+
+.icon gradient mb-4{
+  background: #023951;
+}
+
+p.my-4, li{
+  color:#fff;
+  font-family: 'Reenie Beanie', cursive;
+}
+
+div.col-md-4{
+  color: #fff;
+  font-family: 'Reenie Beanie', cursive;
+}
+
+.gallery {
+    background-color: #023951;
+  }
+  
+  .gallery img {
+    border-radius: 10%;
+    width: 100%!important;
+    box-shadow: 5px 10px #121212;
+  }
+  
+  .container img {
+    width: 25%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 15%;
+    border-color: aqua;
+  }
+
+  .services {
+    color: #fff;
+  }
+
+  p{
+    color: #fff;
+  }
+  
+  footer {
+    color: #fff;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+  }
+
+  .inspire{
+    font-family: 'Reenie Beanie', cursive;
+  }
+
+  .innovation{
+    font-family: 'Reenie Beanie', cursive;
+  }
+
+  .ntf-p{
+    font-family: 'Reenie Beanie', cursive;
+  }
+  
+  .about-ramon{
+    font-family: 'Reenie Beanie', cursive;
+  }
+
+  .mb-3{
+      font-family: 'Reenie Beanie', cursive;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
